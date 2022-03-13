@@ -1,6 +1,5 @@
 #include "mat.hpp"
 #include <iostream>
-#include <iomanip>
 using namespace std;
 namespace ariel {
     
